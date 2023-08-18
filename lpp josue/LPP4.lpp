@@ -1,0 +1,9 @@
+entero edad
+inicio 
+escribir "escribe tu edad"
+lea edad
+si edad >= 18 entonces: 
+ escribir "eres mayor de edad"
+ sino
+  escribir "eres meneor de edad"
+  fin
